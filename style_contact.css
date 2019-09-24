@@ -1,0 +1,40 @@
+body{
+  background-image: url("../Basic-Portfolio/imgs/space_dudes.jpg");
+}
+
+p{
+  font-family: 'Staatliches', cursive;
+}
+
+a.nav-link{
+  font-family: 'Staatliches', cursive;
+  color: whitesmoke;
+  font-size: 20px;
+}  
+
+#formGroupExampleInput{
+
+}
+
+.container{
+  margin-top: 127px;
+}
+
+label{
+  font-family: 'Staatliches', cursive;
+  font-size: 28px;
+  /* color : #494846; */
+  color: whitesmoke;
+  text-shadow: 5px 6px 7px darkgrey;
+}
+
+.btn{
+  font-family: 'Staatliches', cursive;
+  background-color: transparent;
+  border: transparent;
+  text-shadow: 5px 6px 7px darkgrey;
+  font-size: 28px;
+  float: right;
+}
+
+

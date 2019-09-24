@@ -1,0 +1,44 @@
+
+body{
+  background-image: url("../Basic-Portfolio/imgs/space_dudes.jpg");
+}
+
+.jumbotron{
+background-color: whitesmoke;
+}
+
+#psychicGame{
+     width: 20%;
+  height: auto;
+  box-shadow: 2px 2px 2px darkgrey;
+  margin-left: 56px;
+}
+
+#crystal_collector{
+     width: 20%;
+  height: auto;
+  box-shadow: 2px 2px 2px darkgrey;
+  margin-left: 71px;
+}
+
+#responsive_portfolio{
+     width: 20%;
+  height: auto;
+  box-shadow: 2px 2px 2px darkgrey;
+  margin-left: 75px;
+}
+
+a.nav-link{
+  font-family: 'Staatliches', cursive;
+  color: whitesmoke;
+  font-size: 20px;
+}
+
+h1{
+  font-family: 'Staatliches', cursive;
+  font-size: 50px;
+  color: whitesmoke;
+  text-shadow: 5px 6px 7px darkgrey;
+  margin-top: 62px;
+  margin-left: 182px;
+}

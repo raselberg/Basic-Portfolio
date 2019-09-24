@@ -1,0 +1,49 @@
+
+
+body{
+  background-image: url("../Basic-Portfolio/imgs/space_dudes.jpg");
+}
+
+img{
+  border-radius: 80%;
+  width: 40%;
+  height: auto;
+}
+
+.jumbotron{
+background-color: whitesmoke;
+margin-top: 93px;
+
+}
+
+/* /* 
+h1{
+  font-family: 'Staatliches', cursive;
+  font-size: 100px;
+  text-align: center;
+  color: whitesmoke;
+  text-shadow: 5px 6px 7px darkgrey;
+  margin-top: 62px; */
+/* } */
+/* 
+h2{
+  font-family: 'Staatliches', cursive;
+  text-align: center;
+  color: whitesmoke;
+  text-shadow: 5px 6px 7px rgb(68, 64, 64);
+  margin-top: 85px;
+} */
+
+ a.nav-link{
+  font-family: 'Staatliches', cursive;
+  color: whitesmoke;
+  font-size: 20px;
+}  
+
+h3{
+  font-family: 'Staatliches', cursive;
+}
+
+p{
+  font-family: 'Staatliches', cursive;
+}
